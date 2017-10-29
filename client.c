@@ -1,6 +1,4 @@
-//
-// Created by anchit on 28/10/15.
-//
+
 
 #include "include.h"
 int main(int argc,char * argv[])
